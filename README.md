@@ -29,17 +29,11 @@ A comprehensive web application for tracking personal finances, built with Next.
 - **Database**: MongoDB
 - **API**: Next.js API Routes
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18+ and npm/yarn
-- MongoDB database (local or Atlas)
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/personal-finance-visualizer.git
-cd personal-finance-visualizer
+git clone https://github.com/latha0001/finance-assignment.git
+cd finance-assignment
 
